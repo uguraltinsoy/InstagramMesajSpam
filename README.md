@@ -12,7 +12,7 @@ s = "target username" # Target Username
 spam_message = "message" # Message to be sent to the destination
 ```
 
-![Alt Text](image/work.gif)
+<p align="center"><img src="image/work.gif"/></p>
 
 ### Developer By
 ##### Uğur Altınsoy
